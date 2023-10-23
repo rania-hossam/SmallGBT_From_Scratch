@@ -2,18 +2,7 @@
 #MiniGPT: Building GPT2 from scratch
 MiniGPT is a lightweight implementation of the Generative Pre-trained Transformer (GPT) model for natural language processing tasks. It is designed to be simple and easy to use, making it a great option for small-scale applications or for learning and experimenting with generative models.
 
-## Features
--  Lightweight implementation of the GPT models
--  Designed to be trained on consumer GPU (RTX 4060 8GB)
--  Small number of parameters (82 Million!)
--  Customizable hyperparameters for model configuration
--  Supports Top K Top P filtering and temperature scaling
--  Written in Python with PyTorch as the deep learning framework
 
-<p align="center" style="margin: 3%;">
-	<img align="center" src="assets/val_loss_wandb.png" />
-    300k iterations of training
-</p>
 
 ## Installation
 1. Clone the repo and run `pip install -r requirements.txt`
@@ -33,7 +22,7 @@ n_tokens = 1000
 temperature = 0.8
 top_k = 0
 top_p = 0.9
-model_path = 'models/microGPT.pth'
+model_path = 'models/smallGPT.pth'
 
 ```
 
