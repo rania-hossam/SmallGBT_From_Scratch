@@ -1,6 +1,6 @@
 
-#MiniGPT: Building GPT2 from scratch
-MiniGPT is a lightweight implementation of the Generative Pre-trained Transformer (GPT) model for natural language processing tasks. It is designed to be simple and easy to use, making it a great option for small-scale applications or for learning and experimenting with generative models.
+#SmallGBT: Building GPT2 from scratch
+SmallGBT is a lightweight implementation of the Generative Pre-trained Transformer (GPT) model for natural language processing tasks. It is designed to be simple and easy to use, making it a great option for small-scale applications or for learning and experimenting with generative models.
 
 
 
@@ -37,16 +37,7 @@ model_path = 'models/smallGPT.pth'
 
 3. **Small-Scale Powerhouse:** Beyond learning and experimentation,smallGPT is a suitable option for small-scale applications. It empowers you to integrate AI-powered language generation into projects where efficiency and performance are paramount.
 
-## Empowerment Through Adaptability:
 
-1. **Customization Capabilities:** smallGPT's adaptability empowers you to modify and fine-tune the model to suit your specific goals, offering a canvas for creating AI solutions tailored to your requirements.
-
-2. **Learning Journey:** Use smallGPT as a stepping stone to comprehend the foundations of generative models. Its accessible design and documentation provide an ideal environment for those new to AI.
-
-3. **Experimentation Lab:** Engage in experiments by tweaking and testing microGPT's parameters. The model's simplicity and versatility provide a fertile ground for innovation.
-
-## Contribution
-If you would like to contribute, please follow these guidelines:
 
 
 
